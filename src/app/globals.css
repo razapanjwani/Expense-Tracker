@@ -162,3 +162,11 @@ input[type='number'] {
 .btn:focus {
   background-color: #0e2bea;
 }
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
